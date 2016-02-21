@@ -1,5 +1,3 @@
-
-
 class Schedule(object):
     def __init__(self, start, end, prof, classNumber,weekdayList):
         self.startTime = start

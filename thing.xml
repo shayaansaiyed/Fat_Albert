@@ -18,7 +18,7 @@ INCLUDE_CLASS_DAYS
 
 <class>
 	<startTime>10:30:00</startTime>
-	<endtTime>12:20:00</endtTime>
+	<endTime>12:20:00</endTime>
 	<professor>Ulman, Hanna</professor>
 	<weekDays>Mon,Wed</weekDays>
 	<classNum>17040</classNum>
@@ -26,7 +26,7 @@ INCLUDE_CLASS_DAYS
 
 <class>
 	<startTime>14:30:00</startTime>
-	<endtTime>16:20:00</endtTime>
+	<endTime>16:20:00</endTime>
 	<professor>Bronstein, Irina</professor>
 	<weekDays>Tue,Thu</weekDays>
 	<classNum>17042</classNum>
@@ -34,7 +34,7 @@ INCLUDE_CLASS_DAYS
 
 <class>
 	<startTime>14:30:00</startTime>
-	<endtTime>16:20:00</endtTime>
+	<endTime>16:20:00</endTime>
 	<professor>Zhao, Fang</professor>
 	<weekDays>Tue,Thu</weekDays>
 	<classNum>17043</classNum>
@@ -42,7 +42,7 @@ INCLUDE_CLASS_DAYS
 
 <class>
 	<startTime>14:30:00</startTime>
-	<endtTime>16:20:00</endtTime>
+	<endTime>16:20:00</endTime>
 	<professor>Spizzirri, Nicholas</professor>
 	<weekDays>Tue,Thu</weekDays>
 	<classNum>17717</classNum>
@@ -50,7 +50,7 @@ INCLUDE_CLASS_DAYS
 
 <class>
 	<startTime>16:30:00</startTime>
-	<endtTime>18:20:00</endtTime>
+	<endTime>18:20:00</endTime>
 	<professor>Gurtas, Yusuf</professor>
 	<weekDays>Tue,Thu</weekDays>
 	<classNum>17369</classNum>

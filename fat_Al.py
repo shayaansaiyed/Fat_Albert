@@ -2,24 +2,12 @@ from lxml import etree
 from io import StringIO, BytesIO
 from sched_Class import Schedule
 
-MON = 0
-TUE = 1
-WED = 2
-THU = 3
-FRI = 4
-SAT = 5
-SUN = 6
-
 weekdays = {"MON": 0, "TUE":1, "WED":2, "THU":3, "FRI":4, "SAT":5, "SUN":6}
-
 
 listOfSchedule = []
 
 tree = etree.parse("thing.xml")
 xml_list = tree.findall("class")
-
-
-
 
 for x in range(len(xml_list)):
     start = xml_list[x].find("startTime").text
