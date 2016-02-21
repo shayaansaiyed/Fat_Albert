@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class_query>
+
+
+<!-- given a class number-->
+
+<class>
+	<startTime>15:30:00</startTime>
+	<endTime>16:20:00</endTime>
+	<professor>Sterling, John</professor>
+	<weekDays>Mon,Wed</weekDays>
+	<classNum>17086</classNum>
+</class>
+
+<class>
+	<startTime>15:00:00</startTime>
+	<endTime>16:20:00</endTime>
+	<professor>Katz-Braunschweig, Daniel</professor>
+	<weekDays>Mon,Wed</weekDays>
+	<classNum>17598</classNum>
+</class>
+
+<class>
+	<startTime>16:30:00</startTime>
+	<endTime>17:50:00</endTime>
+	<professor>Sterling, John</professor>
+	<weekDays>Mon,Wed</weekDays>
+	<classNum>17087</classNum>
+</class>
+
+<class>
+	<startTime>10:30:00</startTime>
+	<endTime>11:50:00</endTime>
+	<professor>Sterling, John</professor>
+	<weekDays>Mon,Wed</weekDays>
+	<classNum>17281</classNum>
+</class>
+
+<class>
+	<startTime>10:30:00</startTime>
+	<endTime>11:50:00</endTime>
+	<professor>Katz-Braunschweig, Daniel</professor>
+	<weekDays>Mon,Wed</weekDays>
+	<classNum>17600</classNum>
+</class>
+
+<class>
+	<startTime>11:30:00</startTime>
+	<endTime>14:20:00</endTime>
+	<professor>Sterling, John</professor>
+	<weekDays>Thu</weekDays>
+	<classNum>17350</classNum>
+</class>
+
+<class>
+	<startTime>11:30:00</startTime>
+	<endTime>14:20:00</endTime>
+	<professor>Sterling, John</professor>
+	<weekDays>Thu</weekDays>
+	<classNum>17351</classNum>
+</class>
+
+<class>
+	<startTime>14:30:00</startTime>
+	<endTime>17:20:00</endTime>
+	<professor>Sterling, John</professor>
+	<weekDays>Thu</weekDays>
+	<classNum>17352</classNum>
+</class>
+
+<class>
+	<startTime>08:00:00</startTime>
+	<endTime>10:50:00</endTime>
+	<professor>Sterling, John</professor>
+	<weekDays>Friday</weekDays>
+	<classNum>17353</classNum>
+</class>
+
+<class>
+	<startTime>08:00:00</startTime>
+	<endTime>10:50:00</endTime>
+	<professor>Sterling, John</professor>
+	<weekDays>Fri</weekDays>
+	<classNum>17354</classNum>
+</class>
+
+<class>
+	<startTime>11:00:00</startTime>
+	<endTime>13:50:00</endTime>
+	<professor>Sterling, John</professor>
+	<weekDays>Fri</weekDays>
+	<classNum>17358</classNum>
+</class>
+
+<class>
+	<startTime>14:00:00</startTime>
+	<endTime>16:50:00</endTime>
+	<professor>Sterling, John</professor>
+	<weekDays>Fri</weekDays>
+	<classNum>17357/classNum>
+</class>
+
+<class>
+	<startTime>14:00:00</startTime>
+	<endTime>16:50:00</endTime>
+	<professor>Sterling, John</professor>
+	<weekDays>Fri</weekDays>
+	<classNum>17602</classNum>
+</class>
+
+<class>
+	<startTime>11:00:00</startTime>
+	<endTime>13:50:00</endTime>
+	<professor>Sterling, John</professor>
+	<weekDays>Fri</weekDays>
+	<classNum>17603</classNum>
+</class>
+
+<class>
+	<startTime>11:00:00</startTime>
+	<endTime>13:50:00</endTime>
+	<professor>Sterling, John</professor>
+	<weekDays>Fri</weekDays>
+	<classNum>17604</classNum>
+</class>
+
+<class>
+	<startTime>11:00:00</startTime>
+	<endTime>13:50:00</endTime>
+	<professor>Sterling, John</professor>
+	<weekDays>Fri</weekDays>
+	<classNum>17605</classNum>
+</class>
+
+<class>
+	<startTime>14:30:00</startTime>
+	<endTime>17:20:00</endTime>
+	<professor>Sterling, John</professor>
+	<weekDays>Thu</weekDays>
+	<classNum>17606</classNum>
+</class>
+
+</class_query>
