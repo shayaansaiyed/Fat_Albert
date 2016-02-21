@@ -11,7 +11,7 @@ xml_list = tree.findall("class")
 
 for x in range(len(xml_list)):
     start = xml_list[x].find("startTime").text
-    end = xml_list[x].find("endtTime").text
+    end = xml_list[x].find("endTime").text
 
     startTime = 60*int(start[:2]) + int(start[3:5])
     endTime = 60*int(end[:2]) + int(end[3:5])
