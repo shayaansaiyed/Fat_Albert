@@ -11,5 +11,6 @@ class Schedule(object):
         print("Class number: {0}".format(self.classNumber))
         print("Professor: {0}".format(self.professor))
         print("Time: {0} {1}:{2}-{3}:{4}".format(", ".join([numToDay[d] for d in self.weekdayList]) + "; ",
-            self.startTime/60, self.startTime%60, self.endTime/60, self.endTime%60))
+            str(self.startTime/60).zfill(2), str(self.startTime%60).zfill(2),
+            str(self.endTime/60).zfill(2), str(self.endTime%60)).zfill(2))
         print "\n"
