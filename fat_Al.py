@@ -7,10 +7,18 @@ fileNames = ["Advanced College Essay", "Calculus 2", "Objected Oriented Programm
 weekdays = {"MON": 0, "TUE":1, "WED":2, "THU":3, "FRI":4, "SAT":5, "SUN":6}
 
 
-
-
 courses = {}
 
+
+def isTimeCompatible( A, B):
+    return (A.endTime < B.startTime or B.endTime < A.startTime)
+
+def isDateCompatible(A,B):
+    for x in range(len(A.weekdayList)):
+        if(A.weekdayList[x] in B.weekdayList):
+           return False
+    return True
+    
 for classNameIndex in range(len(fileNames)):
     listOfSchedule = []
     
@@ -48,3 +56,15 @@ for classNameIndex in range(len(fileNames)):
         #listOfSchedule[x].printOut()
 
     courses[fileNames[classNameIndex]] = listOfSchedule
+
+
+A=courses[fileNames[0]][0]
+B=courses[fileNames[0]][10]
+
+A.printOut()
+B.printOut()
+
+C = isTimeCompatible(A,B)
+D = isDateCompatible(A,B)
+print C
+print D
