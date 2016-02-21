@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class_query>
+
+
+<!-- given a class number
+
+course num 
+SSR_EXACT_MATCH1
+
+MEETING_TIME_START
+
+MEETING_TIME_END
+
+day of week
+INCLUDE_CLASS_DAYS
+
+-->
+
+<class>
+	<startTime>10:30:00</startTime>
+	<endtTime>12:20:00</endtTime>
+	<professor>Ulman, Hanna</professor>
+	<weekDays>Mon,Wed</weekDays>
+	<classNum>17040</classNum>
+</class>
+
+<class>
+	<startTime>14:30:00</startTime>
+	<endtTime>16:20:00</endtTime>
+	<professor>Bronstein, Irina</professor>
+	<weekDays>Tue,Thu</weekDays>
+	<classNum>17042</classNum>
+</class>
+
+<class>
+	<startTime>14:30:00</startTime>
+	<endtTime>16:20:00</endtTime>
+	<professor>Zhao, Fang</professor>
+	<weekDays>Tue,Thu</weekDays>
+	<classNum>17043</classNum>
+</class>
+
+<class>
+	<startTime>14:30:00</startTime>
+	<endtTime>16:20:00</endtTime>
+	<professor>Spizzirri, Nicholas</professor>
+	<weekDays>Tue,Thu</weekDays>
+	<classNum>17717</classNum>
+</class>
+
+<class>
+	<startTime>16:30:00</startTime>
+	<endtTime>18:20:00</endtTime>
+	<professor>Gurtas, Yusuf</professor>
+	<weekDays>Tue,Thu</weekDays>
+	<classNum>17369</classNum>
+</class>
+
+</class_query>
+
