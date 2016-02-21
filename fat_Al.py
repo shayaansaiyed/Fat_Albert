@@ -6,11 +6,6 @@ fileNames = ["Advanced College Essay", "Calculus 2", "Objected Oriented Programm
 
 weekdays = {"MON": 0, "TUE":1, "WED":2, "THU":3, "FRI":4, "SAT":5, "SUN":6}
 
-
-for x in range(len(xml_list)):
-    start = xml_list[x].find("startTime").text
-    end = xml_list[x].find("endTime").text
-
 courses = {}
 
 
