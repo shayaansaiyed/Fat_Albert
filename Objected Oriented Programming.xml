@@ -72,7 +72,7 @@
 	<startTime>08:00:00</startTime>
 	<endTime>10:50:00</endTime>
 	<professor>Sterling, John</professor>
-	<weekDays>Friday</weekDays>
+	<weekDays>Fri</weekDays>
 	<classNum>17353</classNum>
 </class>
 
@@ -97,7 +97,7 @@
 	<endTime>16:50:00</endTime>
 	<professor>Sterling, John</professor>
 	<weekDays>Fri</weekDays>
-	<classNum>17357/classNum>
+	<classNum>17357</classNum>
 </class>
 
 <class>

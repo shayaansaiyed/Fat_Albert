@@ -268,7 +268,7 @@ INCLUDE_CLASS_DAYS
 	<startTime>09:30:00</startTime>
 	<endTime>10:45:00</endTime>
 	<professor>Linsky, Elisa</professor>
-	<weekDays>Tue,Thur</weekDays>
+	<weekDays>Tue,Thu</weekDays>
 	<classNum>10178</classNum>
 </class>
 
